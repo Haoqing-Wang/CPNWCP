@@ -1,7 +1,7 @@
 # Contrastive Prototypical Network with Wasserstein Confidence Penalty
 PyTorch implementation of
 <br>
-[**Contrastive Prototypical Network with Wasserstein Confidence Penalty**](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Rethinking_Minimal_Sufficient_Representation_in_Contrastive_Learning_CVPR_2022_paper.pdf)
+[**Contrastive Prototypical Network with Wasserstein Confidence Penalty**]()
 <br>
 Haoqing Wang, [Zhi-hong Deng](http://www.cis.pku.edu.cn/jzyg/szdw/dzh.htm)
 
